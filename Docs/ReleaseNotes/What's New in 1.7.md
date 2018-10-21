@@ -211,7 +211,7 @@ When an object literal is contextually typed by the implied type of an object bi
 
 * Properties with default values in the object binding pattern become optional in the object literal.
 
-  对象绑定模式中具有默认值的属性在该对象字面量中变为可选。
+  对象绑定模式中具有默认值的属性在对象字面量中变为可选。
 
 * Properties in the object binding pattern that have no match in the object literal are required to have a default value in the object binding pattern and are automatically added to the object literal type.
 
