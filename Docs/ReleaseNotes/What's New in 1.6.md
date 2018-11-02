@@ -340,7 +340,7 @@ TypeScript 1.6 enforces stricter object literal assignment checks for the purpos
 TypeScript 1.6 执行了更严格的对象字面量赋值检查以捕获多余或拼写错误的属性。特别地，当一个新的对象字面量被赋值给一个变量或作为一个参数传递给一个非空的目标类型时，对对象字面量指定目标类型中不存在的属性是错误的。
 
 ##### Examples
-##### 例子
+##### 示例
 
 ```ts
 var x: { foo: number };
