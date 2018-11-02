@@ -1,2 +1,2 @@
-# deep-dive-in-ts
-Deep dive in TypeScript.
+# deep-dive-into-ts
+Deep dive into TypeScript.
